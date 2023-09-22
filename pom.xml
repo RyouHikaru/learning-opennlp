@@ -20,6 +20,11 @@
             <artifactId>opennlp-tools</artifactId>
             <version>1.9.3</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-analyzers-kuromoji</artifactId>
+            <version>8.6.2</version>
+        </dependency>
     </dependencies>
 
 </project>
